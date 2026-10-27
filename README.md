@@ -257,3 +257,99 @@ Claude in Chrome 给 Claude 的能力有：打开网页、读取页面和表单�
 - 坑：失败过的地方和原因
 - 记录：用时、花费、结果
 ```
+
+---
+
+## 十二、用这套方法投过的企业（按招聘系统分组）
+
+这里只列网站本身的公开信息：每家企业用的是哪套招聘系统、入口域名是什么、有什么已知规则。方便你先查第八节里对应系统的要点，再动手。部分企业的入口每年会变，投之前以当年公告为准。
+
+### 北森 Beisen（`*.zhiye.com`）
+| 企业 | 入口 | 已知规则 |
+|---|---|---|
+| 国金证券 / 国金资管 | gjzq.zhiye.com | 校招每人最多 5 个 |
+| 国信证券 / 国信资管 | guosen.zhiye.com | 每人 3 个 |
+| 招商局集团（含招商仁和人寿等） | cmhk.zhiye.com | 每人 15 个 |
+| 泰康（泰康资产） | jobtaikang.zhiye.com | |
+| 华安保险 | sinosafe.m.zhiye.com | 老门户，电脑版和移动版两套模板都要补；最多 2 个 |
+| 中国太平（太平人寿） | cntp.zhiye.com | |
+| 北京银行（中加基金） | bankofbeijing.zhiye.com | |
+| 上银基金（上海银行集团） | bosc.zhiye.com | 检查超过 6 个月的空白期 |
+| 象屿集团（象屿股份 / 象屿金象） | xiangyu.zhiye.com | |
+| 国贸股份 | itgholding.m.zhiye.com | |
+| 通用技术集团 | genertec.zhiye.com | |
+| 南华期货 | nawaa.zhiye.com | |
+| 碧澄能源 / 金开新能 | pcgpower.zhiye.com / nyocor.zhiye.com | |
+| 智慧芽 / 蔚能 | zhihuiya.zhiye.com / mirattery.zhiye.com | |
+| 天职国际 / 中汇 | tzcpa.zhiye.com / zhcpa.zhiye.com | |
+
+### Moka（`app.mokahr.com` 或自有域名）
+| 企业 | 入口 | 已知规则 |
+|---|---|---|
+| 华兴资本 / 华兴证券 | app.mokahr.com | 1 个月限投 1 个 |
+| 上海国际集团 | app.mokahr.com | |
+| 聚宽投资 | app.mokahr.com | |
+| Shopee（Monee） | app.mokahr.com | 校招只能投 1 次 |
+| 东方财富 | zhaopin.eastmoney.com | 「东才计划」每人限投 3 次，提交时有网易易盾验证 |
+| 滴滴 | campus.didiglobal.com | 关键字搜索无效，要用「职能类型」筛选；秋招可投 3 次 |
+| 吉利汽车 | campus.geely.com | 1 个月内可投 4 个 |
+
+### 智联 hotjob（`wecruit.hotjob.cn`）
+| 企业 | 已知规则 |
+|---|---|
+| 华泰证券 / 华泰期货 | 中文简历完整度要 100%；同一项目下每个机构最多 1 个职位 |
+| 华夏银行 | 每人限投 3 个，同一机构同一时间只能投 1 个；个人承诺要手机扫码手写签名 |
+| 开源证券、永安期货（浙江永安资本）、洛阳钼业、广药集团、先声药业 | |
+| 一汽股权 | faw-zhaopin.hotjob.cn |
+
+### 智联校招（`*.zhaopin.com`）
+| 企业 | 入口 | 已知规则 |
+|---|---|---|
+| 国家开发银行 | cdb20xx.zhaopin.com | 最多 2 个单位、每个单位 2 个志愿，共 4 个；同一单位的志愿要排在连续位置 |
+| 邮储银行（上海分行） | psbc20xx.zhaopin.com | |
+| 中邮人寿保险 / 中邮保险资管 | zybx20xx.zhaopin.com | |
+| 华润信托 | xiaoyuan.zhaopin.com | |
+
+### 飞书招聘（`*.jobs.feishu.cn`）
+红杉联合校招（红杉汇）、高鹄资本、国科长三角资本、小米（xiaomi.jobs.f.mioffice.cn）
+
+### 国聘（`iguopin.com`）
+国投泰康信托、国投智能、中免集团（上海）。这类单位多用专属模板，必填项比通用简历多很多。
+
+### 51job（`*.51job.com`）
+百胜中国、上海交易集团、浙江出版联合集团
+
+### 银行 / 金融机构自建系统
+| 企业 | 入口 | 已知规则 |
+|---|---|---|
+| 工商银行（总行本部、工银理财、工银瑞信） | job.icbc.com.cn | |
+| 建设银行（总行直属、子公司） | wealth.ccb.com | 每个计划最多 2 个志愿；基本信息保存后不能修改 |
+| 交通银行（交银理财、交银国际信托） | job.bankcomm.com | 每人最多 2 个职位，确认后不可撤销 |
+| 招商银行（招银理财、信用卡中心、各分行） | career.cmbchina.com | |
+| 中国银行 | applyjob.chinahr.com | 5 个志愿 |
+| 兴业银行（兴业信托、兴业金租、各分行） | job.cib.com.cn | |
+| 民生银行（总行、分行） | career.cmbc.com.cn | |
+| 光大银行 | eoap.cebbank.com | |
+| 浙商银行 | zp.czbank.com.cn | 要求有高中段，并检查教育断档 |
+| 宁波银行（各分行） | zhaopin.nbcb.com.cn | 每人 2 个岗位；登录有滑块验证；有时区问题 |
+| 平安（平安银行、陆控、平安金服） | campus.pingan.com | |
+| 中信证券（分支机构） | careers.citics.com | 总部多数方向要求硕士 |
+| 中银国际 BOCI | boci.recruitmentplatform.com | |
+
+### 其他企业自建系统
+美团（zhaopin.meituan.com，最多 3 个志愿，投出后不能修改）、京东（campus.jd.com）、百度（talent.baidu.com）、小红书（job.xiaohongshu.com）、联想（talent.lenovo.com.cn）、文华财经、南方财经全媒体集团、成都交投、蜀道集团
+
+### 外企系统
+| 企业 | 系统 |
+|---|---|
+| Bain 贝恩（大中华区） | Avature（careers.bain.com） |
+| BCG 波士顿咨询（大中华区） | Eightfold（studenttalent.bcg.com） |
+| Deutsche Bank | Yello（db.recsolu.com） |
+| 汇丰 HSBC | SuccessFactors，集团一年只能投 1 个项目 |
+| 瑞银 UBS | Kenexa BrassRing（jobs.ubs.com） |
+| 施罗德 Schroders | Oracle Cloud |
+| 港交所 HKEX | Workday |
+| Dymon Asia | Greenhouse |
+
+### 邮件投递
+正心谷资本、银叶投资、启观资本、恒越基金、思瑞投资、中国信托商业银行（上海）、中银集团投资、中银国际英国保诚信托、大丰银行（澳门）、中国银行部分海外分行、广开投资、盈新发展。邮箱地址见各家当年的招聘公告。可以让 Claude 先写成草稿存进邮箱草稿箱，自己检查后再发。
